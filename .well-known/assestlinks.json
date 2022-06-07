@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.apporio.all_in_one",
+    "sha256_cert_fingerprints":
+    ["09:1F:83:35:22:C3:4F:B7:58:97:7F:64:9F:00:A7:E9:C0:99:16:30:09:21:F6:F6:D9:AB:AC:B3:8B:5B:C5:59"]
+  }
+}]
